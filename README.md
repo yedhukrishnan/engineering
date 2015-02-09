@@ -1,2 +1,2 @@
 # Engineering
-Computer Science Engineering - my scraps and learnings
+Computer Science Engineering - my notes and learnings

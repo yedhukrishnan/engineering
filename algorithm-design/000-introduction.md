@@ -9,3 +9,7 @@ An algorithm is a type of effective method in which a definite list of well-defi
 * Definiteness - clear and unambigious
 * Finiteness - terminates after finite steps
 * Effectiveness - basic steps which are feasible
+
+##### Algorithm Analysis
+
+Theoretical study of computer program performance and resource usage.

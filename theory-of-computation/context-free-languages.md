@@ -20,4 +20,4 @@
 - The **intersection** of a CFL and a Regular Language is a CFL
   - If $L_1$ is a CFL and $L_2$ is Regular, then $L_1 \cap L_2$ is a CFL
 - There is *no* algorithm to check if a grammar is ambiguous - It is an **Undecidable Problem**
-- **Inherently ambiguous** - A language where it is *not possible* to elimate ambiguity​
+- **Inherently ambiguous** - A language where it is *not possible* to elimate ambiguity

@@ -2,4 +2,4 @@
 
 
 
-- [Theory of Computation](/theory-of-computation)
+- [Theory of Computation](/engineering/theory-of-computation)

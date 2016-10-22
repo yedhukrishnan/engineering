@@ -2,5 +2,4 @@
 
 ### Theory of Computation
 
-- [Context-Free Languages](context-free-languages.html)
-
+- [Context-Free Languages](/engineering/theory-of-computation/context-free-languages.html)

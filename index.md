@@ -1,3 +1,5 @@
-### Computer Science and Engineering
+#### Computer Science and Engineering
+
+---
 
 - [Theory of Computation](/engineering/theory-of-computation)
